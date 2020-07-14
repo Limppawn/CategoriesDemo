@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+target 'GoodsClassificationDemo' do
+pod 'Masonry', '~> 1.1.0'
+pod 'SDWebImage', '~> 5.0.0-beta3'
+pod 'MJExtension', '~> 3.0.15.1'
+pod 'MJRefresh', '~> 3.1.15.7'
+end

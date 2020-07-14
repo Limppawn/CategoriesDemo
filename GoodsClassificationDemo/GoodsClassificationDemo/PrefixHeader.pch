@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  GoodsClassificationDemo
+//
+//  Created by 梁志成 on 2020/7/14.
+//  Copyright © 2020 pawn. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#ifdef __OBJC__
+#import <Masonry.h>
+#import <UIImageView+WebCache.h>
+#import <MJExtension.h>
+#import <MJRefresh.h>
+
+#endif
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#endif /* PrefixHeader_pch */
